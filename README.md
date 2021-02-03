@@ -16,7 +16,7 @@ Saída
 Seu programa deve produzir uma única linha contendo um inteiro representando o número de figurinhas que falta para completar o álbum.
 
  
-
+Exemplos de Entrada	
 10
 3
 5
